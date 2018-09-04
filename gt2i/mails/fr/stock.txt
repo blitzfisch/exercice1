@@ -1,0 +1,6 @@
+Gestion des stocks. 
+
+Quantité restante du produit : {stock}
+Id du produit : {id_product}
+
+
